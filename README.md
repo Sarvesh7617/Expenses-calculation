@@ -59,13 +59,19 @@ git clone https://github.com/Sarvesh7617/Expenses-calculation.git
 cd expense-tracker-web
 ```
 
-### 3. Install dependencies
+### 3. Create .env 
+
+```bash
+PORT="Your backend port
+```
+
+### 4. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Running the Server
+### 5. Running the Server
 
 Start the API server:
 
